@@ -1,0 +1,33 @@
+.subjectHeader{
+	font-family: sans-serif;
+	color: maroon;
+}
+table {       width: 100%;
+        }
+  th, td {
+  	font-weight: bold;
+    width: 10%;  
+    text-align: center; 
+    border: 3px solid black
+
+
+        }
+  li{
+  	list-style: square;
+  }
+  a:hover{
+  	background-color: yellow;
+  }
+  blockquote{
+  	color: white;
+  	background-color: darkgreen;
+  }
+  li:first-of-type {
+  	list-style-type: none;
+
+  }
+  	
+  
+  
+
+  
